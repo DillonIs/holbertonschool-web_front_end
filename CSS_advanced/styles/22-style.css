@@ -523,7 +523,7 @@ ul.row {
 
 [data-selection-theme="dark"] {
   background-color: var(--color-black);
-  --text-color: var(var(--color-white));
+  --text-color: var(--color-white);
   --section-title-color: var(--color-white);
 }
 
